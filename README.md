@@ -1,7 +1,7 @@
 <h1 align="center"> Adivina el número (minijuego) </h1>
 
 <h3 align="center"> Modos de juego </h5>
-<div style="margin-left:25%; margin-right:25%;">
+<div align="center">
 <ul>
     <li>Adivinar un número de 0 a 10</li>
     <li>Adivinar un número de 0 a 20</li>
@@ -12,7 +12,7 @@
 <img src="logo.png" width="50%">
 </p>
 
-<h3 align="center">Otras características y advertencias<h3>
+<h3 align="center">Otras características y advertencias</h3>
 
 <p>Este minijuego crea 3 archivos, cada uno guarda los récords de puntuación de cada modo de juego (recomiendo crear una carpeta única solo para el minijuego donde a parte del código estén los archivos .txt).
 
