@@ -8,9 +8,9 @@
     <li>Adivinar un número de 0 a 100</li>
 </ul>
 </div>
-<p align="center">
+<div align="center">
 <img src="logo.png" width="50%">
-</p>
+</div>
 
 <h3 align="center">Otras características y advertencias</h3>
 
@@ -23,7 +23,9 @@ Es probable que la primera ejecución del código dé un error, ya que, no está
 Por último, los archivos de récord después de parar la ejecución del juego SIEMPRE se reiniciarán haciendo que el récord sea 100.
 
 </p>
-
+<div align="center">
+<img src="logo.png" width="50%">
+</div>
 <h1 align="center"> Guess the number (minigame) </h1>
 
 <h3 align="center"> Gamemodes </h5>
@@ -34,9 +36,9 @@ Por último, los archivos de récord después de parar la ejecución del juego S
     <li>Guess a number from 0 to 100</li>
 </ul>
 </div>
-<p align="center">
+<div align="center">
 <img src="logo.png" width="50%">
-</p>
+</div>
 
 
 <h3 align="center">Other features and warnings</h3>
@@ -49,3 +51,7 @@ It is likely that the first execution of the code will give an error, since the 
 
 Lastly, the record files after stopping the game execution will ALWAYS be reset making the record 100.
 </p>
+
+<div align="center">
+<img src="logo.png" width="50%">
+</div>
