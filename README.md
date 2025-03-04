@@ -2,3 +2,5 @@
 <p align="center">
 <img src="logo.png" width="20%">
 </p>
+<h1 align="center"> Guess the number (minigame) </h1>
+<img src="logo.png" width="20%">
