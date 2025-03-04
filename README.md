@@ -9,7 +9,7 @@
 </ul>
 </div>
 <p align="center">
-<img src="logo.png" width="20%">
+<img src="logo.png" width="50%">
 </p>
 <h1 align="center"> Guess the number (minigame) </h1>
 
@@ -22,5 +22,5 @@
 </ul>
 </div>
 <p align="center">
-<img src="logo.png" width="20%">
+<img src="logo.png" width="50%">
 </p>
