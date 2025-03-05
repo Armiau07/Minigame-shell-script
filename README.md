@@ -23,9 +23,7 @@ Es probable que la primera ejecución del código dé un error, ya que, no está
 Por último, los archivos de récord después de parar la ejecución del juego SIEMPRE se reiniciarán haciendo que el récord sea 100.
 
 </p>
-<div align="center">
-<img src="logo.png" width="50%">
-</div>
+
 <h1 align="center"> Guess the number (minigame) </h1>
 
 <h3 align="center"> Gamemodes </h5>
